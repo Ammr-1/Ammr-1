@@ -3,9 +3,9 @@
 
  ![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg)" 
 
-- 🔭 Currently working on **Robotics**
+<h3 align="left">   Currently working on **Robotics** </h3>
 
-<h3 align="left"> 📫 How to reach us: </h3>
+<h3 align="left">   How to reach us: </h3>
 <p align="left">
  Mohamed Abdelbaset <a href="https://www.linkedin.com/in/mohamed-abdelbaset-2550aa1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammr-1" height="30" width="40" /></a>
      |    Muhammad Fathy <a href="//www.linkedin.com/in/muhammad-fathy-606081234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammr-1" height="30" width="40" /></a></p>
@@ -17,7 +17,7 @@
 </p>
 
 
-- AMMR " Autonomous Mobile Manipulator Robot"
+<h3 align="left"> AMMR " Autonomous Mobile Manipulator Robot"</h3>
 
 
 ![IMG_20200709_161848](https://user-images.githubusercontent.com/104705702/166131681-046df189-0e7f-4222-9a75-287a9a55f36a.jpg)
