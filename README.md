@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, We're Robotic Engineers</h1>
 <h3 align="center">We're Enthusiastic about Robotics</h3>
 
- ![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg)" 
+ ![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg)
 
 <h3 align="left">  /\ Currently working on Robotics </h3>
 
 <h3 align="left">  /\ How to reach us: </h3>
 <p align="left">
  Mohamed Abdelbaset <a href="https://www.linkedin.com/in/mohamed-abdelbaset-2550aa1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammr-1" height="30" width="40" /></a>
-     |    Muhammad Fathy <a href="//www.linkedin.com/in/muhammad-fathy-606081234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammr-1" height="30" width="40" /></a></p>
+     &    Muhammad Fathy <a href="//www.linkedin.com/in/muhammad-fathy-606081234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammr-1" height="30" width="40" /></a></p>
 
 <h3 align="left"> /\ Connect with us:</h3>
 <p align="left">
