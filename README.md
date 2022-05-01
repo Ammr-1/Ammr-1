@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, We're Robotic Engineers</h1>
+![AMMR1](https://user-images.githubusercontent.com/104705702/166131347-b8691c01-5a3d-418c-8fc4-54d96b37e3e9.jpg)
 <h3 align="center">We're Enthusiastic about Robotics</h3>
 
 - 🔭 Currently working on **Robotics**
 
 - 🌱 Currently learning **ROS in deep**
 
-- 📫 How to reach me **https://www.facebook.com/ammr1project** **https://www.linkedin.com/company/ammr-1**
+- 📫 How to reach us  **linkedin.com/in/muhammad-fathy-606081234**   **linkedin.com/in/mohamed-abdelbaset-2550aa1b3**
+![IMG_20200709_161955](https://user-images.githubusercontent.com/104705702/166131379-488a821a-6625-4c7d-b932-32a0f43d32b3.jpg)
+
+![Assembly2 v40](https://user-images.githubusercontent.com/104705702/166131390-bc28ff95-5d0f-4ed3-9f17-10441ce0e36b.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +19,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
