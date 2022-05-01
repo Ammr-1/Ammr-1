@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, We're Robotic Engineers</h1>
 <h3 align="center">We're Enthusiastic about Robotics</h3>
 
-<img align="center">![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg) </img>
+<img align="right">![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg) </img>
 
 - 🔭 Currently working on **Robotics**
 
 - 🌱 Currently learning **ROS in deep**
 
-- 📫 How to reach us  https://www.linkedin.com/in/mohamed-abdelbaset-2550aa1b3/  & 
-                      https://www.linkedin.com/in/muhammad-fathy-606081234/
+- 📫 How to reach us
+-   https://www.linkedin.com/in/mohamed-abdelbaset-2550aa1b3/ & https://www.linkedin.com/in/muhammad-fathy-606081234/
 
 - AMMR " Autonomous Mobile Manipulator Robot"
 
