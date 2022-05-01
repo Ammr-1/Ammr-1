@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, We're Robotic Engineers</h1>
-<h3 align="center">We're enthusiastic about robotics</h3>
+<h3 align="center">We're Enthusiastic about Robotics</h3>
 
-- 🔭 Currently working on **Making a ROS Course**
+- 🔭 Currently working on **Robotics**
 
 - 🌱 Currently learning **ROS in deep**
 
-- 📫 How to reach me **https://www.facebook.com/ammr1project**
+- 📫 How to reach me **https://www.facebook.com/ammr1project** **https://www.linkedin.com/company/ammr-1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
