@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We're Robotic Engineers</h1>
 <h3 align="center">We're Enthusiastic about Robotics</h3>
 
-<h3 align="center">![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg) </h3>
+<h1 align="center">![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg) </h1>
 
 - 🔭 Currently working on **Robotics**
 
@@ -10,7 +10,7 @@
 - 📫 How to reach us  **linkedin.com/in/muhammad-fathy-606081234** & **linkedin.com/in/mohamed-abdelbaset-2550aa1b3**
 
 
-![IMG_20200709_161955](https://user-images.githubusercontent.com/104705702/166131379-488a821a-6625-4c7d-b932-32a0f43d32b3.jpg)
+<img align ="left"> ![IMG_20200709_161955](https://user-images.githubusercontent.com/104705702/166131379-488a821a-6625-4c7d-b932-32a0f43d32b3.jpg)</img>
 
 ![Assembly2 v40](https://user-images.githubusercontent.com/104705702/166131390-bc28ff95-5d0f-4ed3-9f17-10441ce0e36b.png)
 
