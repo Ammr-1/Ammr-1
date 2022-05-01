@@ -7,10 +7,13 @@
 
 - 🌱 Currently learning **ROS in deep**
 
-- 📫 How to reach us  <a href="**linkedin.com/in/muhammad-fathy-606081234**"</a> & <a href="**linkedin.com/in/mohamed-abdelbaset-2550aa1b3**" </a>
+- 📫 How to reach us  https://www.linkedin.com/in/mohamed-abdelbaset-2550aa1b3/ & https://www.linkedin.com/in/muhammad-fathy-606081234/
+
+- AMMR " Autonomous Mobile Manipulator Robot"
 
 
-<img align ="left"> ![IMG_20200709_161955](https://user-images.githubusercontent.com/104705702/166131379-488a821a-6625-4c7d-b932-32a0f43d32b3.jpg)</img>
+![IMG_20200709_161848](https://user-images.githubusercontent.com/104705702/166131681-046df189-0e7f-4222-9a75-287a9a55f36a.jpg)
+
 
 ![Assembly2 v40](https://user-images.githubusercontent.com/104705702/166131390-bc28ff95-5d0f-4ed3-9f17-10441ce0e36b.png)
 
