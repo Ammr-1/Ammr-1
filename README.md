@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We're Robotic Engineers</h1>
 <h3 align="center">We're Enthusiastic about Robotics</h3>
 
-   ![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg)
+   <h3 align="center">![AMMR1](https://user-images.githubusercontent.com/104705702/166131422-4de5cf84-4146-4017-93de-00fdba66ea4b.jpg)</h3>
 
 - 🔭 Currently working on **Robotics**
 
